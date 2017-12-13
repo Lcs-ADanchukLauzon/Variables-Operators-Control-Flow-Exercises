@@ -70,8 +70,10 @@ var personFavoriteHobby = "Playing soccer"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
-
+print("While you cannot change the contents within")
+print("it will make your code run faster.")
+print("This is why constants should always be used over a")
+print("variable if the value does not change.")
 /*:
  ### Question 5
  
