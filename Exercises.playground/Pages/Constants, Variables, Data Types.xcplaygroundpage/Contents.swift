@@ -35,7 +35,10 @@
  
  */
 // Answer Question 1 below
-
+let studentFirstName = "Alexy"
+let studentLastName = "Danchuk-Lauzon"
+var studentsCurrentGrade = 98
+let studentNovemberReportCard = 90
 /*:
  ### Question 2
  
