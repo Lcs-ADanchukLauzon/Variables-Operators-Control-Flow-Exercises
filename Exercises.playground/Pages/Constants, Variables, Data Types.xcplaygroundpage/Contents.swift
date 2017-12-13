@@ -83,6 +83,7 @@ print("variable if the value does not change.")
  
  */
 // Answer Question 5 below
+let randomDemand = 1_000_000_000
 
 /*:
  ### Question 6
