@@ -104,8 +104,15 @@ let randomDemand = 1_000_000_000
  
  */
 // Answer Question 6 below
+var year = 2017
+let text = "a short piece of text"
+// year = text
 
-
+print("\nThe error at hand is a syntax error")
+print("because it does not run like a logical error")
+print("the error is in the writing of the code")
+print("the two are incompatable.")
+print("String interpolation would be recuired")
 /*:
  ### Question 7
  
