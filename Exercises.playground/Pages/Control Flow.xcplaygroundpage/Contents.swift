@@ -54,7 +54,11 @@ if temperature == 0 {
 temperature = -20
 
 // Answer Question 2 below
-
+if temperature == 0 {
+    print("Brr, grab your winter jacket")
+} else if temperature > 0 {
+    print("Don't leave your water glass outside")
+}
 
 /*:
  
