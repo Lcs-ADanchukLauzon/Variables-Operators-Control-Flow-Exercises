@@ -98,13 +98,16 @@ if temperature == 0 {
  Write an `if` statement that prints "Must be Gordon!" when the values of the constants would seem to suggest the person is Mr. Gordon, or otherwise prints "Hmm, need more data to be sure."
  
  */
+// Answer Question 4 below
+
 let hasRedHair = true
 let alwaysGetsAttentionBySayingGentsAndLadies = true
 let teachesOutdoorEd = true
-
-// Answer Question 4 below
-
-
+if hasRedHair && alwaysGetsAttentionBySayingGentsAndLadies && teachesOutdoorEd == false {
+    print("Must be Gordon")
+} else {
+    print("Hmm, need more data to be sure")
+}
 /*:
  
  ### Question 5
