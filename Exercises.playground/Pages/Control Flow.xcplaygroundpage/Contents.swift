@@ -76,6 +76,14 @@ if temperature == 0 {
 temperature = 15
 
 // Answer Question 3 below
+if temperature == 0 {
+    print("Brr, grab your winter jacket")
+} else if temperature > 0 {
+    print("Don't leave your water glass outside")
+} else {
+    print("It could be shorts weather but you might still be a bit chilly")
+}
+
 
 /*:
  
