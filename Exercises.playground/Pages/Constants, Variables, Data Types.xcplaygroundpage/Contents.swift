@@ -121,8 +121,8 @@ print("String interpolation would be recuired")
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
-
+print("\nType safety is when Xcode does not allow use \ntypes incorrectly or unexpectedtly.")
+print("Thus the code will not run untile the error is fixed")
 
 
 //: [Next](@next)
