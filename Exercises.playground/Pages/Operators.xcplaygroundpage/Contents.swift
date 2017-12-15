@@ -75,7 +75,9 @@ print("Part time earnings are now \(partTimeJobEArnings)")
 
 */
 // Answer Question 2 below
-6 + 4 * 5 - 2
+
+// add barckets to adjust the order of operations.
+6 + 4 * (5 - 2)
 
 
 
