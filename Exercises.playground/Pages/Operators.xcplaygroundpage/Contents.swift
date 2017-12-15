@@ -43,7 +43,17 @@
  
  */
 // Answer Question 1 below
-
+var partTimeJobEArnings : Double = 0.0
+partTimeJobEArnings += 22.50 * 0.5
+print("Part time earnings are now \(partTimeJobEArnings)")
+partTimeJobEArnings += 20.00
+print("Part time earnings are now \(partTimeJobEArnings)")
+partTimeJobEArnings -= partTimeJobEArnings/2
+print("Part time earnings are now \(partTimeJobEArnings)")
+partTimeJobEArnings += 25.00 * 4
+print("Part time earnings are now \(partTimeJobEArnings)")
+partTimeJobEArnings -= 50.00
+print("Part time earnings are now \(partTimeJobEArnings)")
 
 /*:
 ### Question 2
