@@ -43,15 +43,26 @@
  
  */
 // Answer Question 1 below
+// starts with no money
 var partTimeJobEArnings : Double = 0.0
+
+// makes half of 22.50$
 partTimeJobEArnings += 22.50 * 0.5
 print("Part time earnings are now \(partTimeJobEArnings)")
+
+// gets paid 20$
 partTimeJobEArnings += 20.00
 print("Part time earnings are now \(partTimeJobEArnings)")
+
+//spends half his money
 partTimeJobEArnings -= partTimeJobEArnings/2
 print("Part time earnings are now \(partTimeJobEArnings)")
+
+// makes 25$ an hour for 4 hours
 partTimeJobEArnings += 25.00 * 4
 print("Part time earnings are now \(partTimeJobEArnings)")
+
+// Spends 50$ on dinner
 partTimeJobEArnings -= 50.00
 print("Part time earnings are now \(partTimeJobEArnings)")
 
